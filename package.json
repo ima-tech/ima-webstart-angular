@@ -1,0 +1,44 @@
+{
+  "name": "ima-webstart-angular",
+  "description": "Webstart",
+  "author": {
+    "name": "Ima-Tech"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-bootstrap-datetimepicker": "^1.1.4",
+    "angular-sortable-view": "0.0.15",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "gulp-jsdoc3": "^1.0.1",
+    "jquery": "^3.2.1",
+    "jsdoc": "^3.4.3"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.4",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-iife": "^0.3.0",
+    "gulp-less": "^3.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-strip-comments": "^2.4.5",
+    "gulp-uglify": "^3.0.0",
+    "jasmine-core": "^2.6.2",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-html-reporter": "^0.2.7",
+    "karma-jasmine": "^1.1.0",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7",
+    "run-sequence": "^1.2.2"
+  }
+}
